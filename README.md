@@ -72,22 +72,34 @@
 
 ## devMart 기획
 ![Image](https://github.com/user-attachments/assets/4cf86a28-9268-42dc-930a-228f6ce8869c)
-
 ![Image](https://github.com/user-attachments/assets/658da4b3-d366-4ebd-a4be-9af70673a6ff)
-
 ![Image](https://github.com/user-attachments/assets/2075c19e-e658-49f6-a545-0cb3c357680b)
-
 ![Image](https://github.com/user-attachments/assets/4f50b55a-f2f6-4883-b1c2-0d0575f1d6fe)
-
 ![Image](https://github.com/user-attachments/assets/ee65b9fc-ab83-40f8-b17e-b32cfb1a19c6)
-
 ![Image](https://github.com/user-attachments/assets/c3d35f92-7ae5-4884-a0f9-c757203d93b7)
-
 ![Image](https://github.com/user-attachments/assets/6b88d8a2-c860-4fb6-9f6c-9e2d680098f5)
-
 ![Image](https://github.com/user-attachments/assets/14cd239f-0039-4432-84fa-0c15878d5557)
-
 ![Image](https://github.com/user-attachments/assets/3cdd3731-1706-4d9f-8890-3967eb44cff1)
+
+
+## 웹사이트 화면 시나리오
+![Image](https://github.com/user-attachments/assets/aee03ce2-402a-4407-9309-601e42fe34a7)
+![Image](https://github.com/user-attachments/assets/c80183d6-f020-4d03-b1e7-61066fbe22c1)
+![Image](https://github.com/user-attachments/assets/23aeabe1-c8e0-4395-be37-fc1c4e226a86)
+![Image](https://github.com/user-attachments/assets/698041b4-8dea-4fce-918e-3c37b711c50f)
+![Image](https://github.com/user-attachments/assets/123aa728-16c1-40bb-9517-c3103903eedf)
+![Image](https://github.com/user-attachments/assets/cbe097b8-1a17-4d6a-9356-60d1c2220b12)
+![Image](https://github.com/user-attachments/assets/dc391b48-986d-4398-8d5c-4067e26213c0)
+
+## 모바일 화면 시나리오
+![Image](https://github.com/user-attachments/assets/f2d6c5a3-0dc3-470b-b328-6a1d0ae0f202)
+![Image](https://github.com/user-attachments/assets/44cf1313-2624-42f6-8543-177cbd2c8249)
+![Image](https://github.com/user-attachments/assets/32ad6004-8768-4df7-9f64-c2a9032eda8a)
+![Image](https://github.com/user-attachments/assets/1296dac9-4ce4-4a3f-b74e-377b85ca3a0e)
+![Image](https://github.com/user-attachments/assets/21a53b17-b07a-414b-afd2-106ee9baa7ad)
+![Image](https://github.com/user-attachments/assets/10878ff4-43cb-4aaa-a264-cca23b3ea2fc)
+![Image](https://github.com/user-attachments/assets/743e1bd9-79d5-4bda-b9e5-099cec0de5a7)
+
 
 
 
@@ -146,6 +158,9 @@
 | --- | --- | --- |
 | CSS 변수 | 케밥케이스 | `--color-primary`, `--color-bg` |
 | 클래스명 | HTML 규칙 동일 (케밥케이스) | `product-card` |
+```
+margin은 top이 아닌 bottom으로 밀어주기
+```
 
 ### 주석(JSDoc)
 
