@@ -70,10 +70,24 @@
 
 2. [배포 링크](https://devmart-final.netlify.app/)로도 접속하실 수 있습니다.
 
+## devMart 기획
+![Image](https://github.com/user-attachments/assets/4cf86a28-9268-42dc-930a-228f6ce8869c)
 
+![Image](https://github.com/user-attachments/assets/658da4b3-d366-4ebd-a4be-9af70673a6ff)
 
-## 유저 플로우
-![Image](https://github.com/user-attachments/assets/5b59dd60-2d38-4e24-9f88-d57686f0597b)
+![Image](https://github.com/user-attachments/assets/2075c19e-e658-49f6-a545-0cb3c357680b)
+
+![Image](https://github.com/user-attachments/assets/4f50b55a-f2f6-4883-b1c2-0d0575f1d6fe)
+
+![Image](https://github.com/user-attachments/assets/ee65b9fc-ab83-40f8-b17e-b32cfb1a19c6)
+
+![Image](https://github.com/user-attachments/assets/c3d35f92-7ae5-4884-a0f9-c757203d93b7)
+
+![Image](https://github.com/user-attachments/assets/6b88d8a2-c860-4fb6-9f6c-9e2d680098f5)
+
+![Image](https://github.com/user-attachments/assets/14cd239f-0039-4432-84fa-0c15878d5557)
+
+![Image](https://github.com/user-attachments/assets/3cdd3731-1706-4d9f-8890-3967eb44cff1)
 
 
 
